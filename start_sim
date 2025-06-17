@@ -1,0 +1,3 @@
+#!/bin/bash
+
+gnome-terminal --window --title "start sim" -- bash -c "./.start_sim" 
